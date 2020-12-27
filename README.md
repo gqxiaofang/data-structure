@@ -6,5 +6,8 @@ Lnode *delete(Lnode *first, int e);
 void print(Lnode *first);
 Lnode *list_create(Lnode *first,int a[],int n);
 void list_destroy(Lnode *first);
+Lnode *insert_order(Lnode *first,Lnode *s);
+Lnode *get_front(Lnode **first);
+Lnode *list_sort(Lnode *first);
 ```
 

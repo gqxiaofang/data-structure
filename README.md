@@ -10,4 +10,7 @@ Lnode *insert_order(Lnode *first,Lnode *s);
 Lnode *get_front(Lnode **first);
 Lnode *list_sort(Lnode *first);
 ```
+# 顺序表和单链表的比较
+```
 
+```

@@ -1,5 +1,4 @@
-# main.c为单链表主要从操作的实现
-
+# main.c为单链表主要从操作的实现，这里按照码的代码
 ```
 Lnode *insert(Lnode *first, Lnode *p,int e);
 Lnode *find(Lnode *first, int e);
